@@ -49,11 +49,9 @@ This project combines **Python (Jupyter Notebook)** and **Power BI** to analyze 
 
 ## 📂 Project Structure
 sales-data-analytics/
-- data/ # Raw & cleaned datasets
-- notebooks/ # Jupyter notebooks
-- reports/ # Power BI file + screenshots
-- scripts/ # Python scripts (optional)
+- data/Raw & cleaned datasets
+- notebooks/Jupyter notebooks
+- reports/Power BI file + screenshots
 - README.md
-- requirements.txt
 
 ---
