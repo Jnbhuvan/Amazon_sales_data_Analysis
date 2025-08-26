@@ -1,7 +1,8 @@
 # 🛍️ Sales Data Analytics Project
 
 ## 📌 Project Overview
-This project combines **Python (Jupyter Notebook)** and **Power BI** to analyze retail sales data and uncover key business insights.
+This end-to-end data analytics project transforms raw retail sales data into actionable business intelligence. Leveraging **Python** for data wrangling and **Power BI** for visualization, this analysis uncovers critical insights into sales performance, customer demographics, and promotional effectiveness to guide strategic decision-making.
+
 
 ### Objectives:
 - Clean and preprocess large sales datasets efficiently using Python
